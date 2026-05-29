@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+data/raw/mineru_zip/
+data/interim/markdown/
+data/processed/*.jsonl
+!data/processed/.keep
+!data/processed/scievo_demo.jsonl
+!data/processed/scievo_multi_paper_draft.jsonl
+!data/processed/scievo_train.jsonl
+!data/processed/scievo_valid.jsonl
+!data/processed/scievo_test.jsonl
+api.txt

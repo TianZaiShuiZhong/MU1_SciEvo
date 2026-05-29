@@ -1,0 +1,4 @@
+﻿paper_id,title,domain,url,doi
+paper_luxsit_nature,De novo design of artificial luciferases from scratch,protein-engineering,https://www.nature.com/articles/s41586-023-06268-6.pdf,10.1038/s41586-023-06268-6
+paper_rosetta_enzyme,Computational enzyme design with Rosetta,protein-engineering,https://pmc.ncbi.nlm.nih.gov/articles/PMC5511080/pdf/nihms868941.pdf,10.1038/nature19946
+paper_proteinmpnn,Robust deep learning-based protein sequence design using ProteinMPNN,protein-engineering,https://pmc.ncbi.nlm.nih.gov/articles/PMC9997061/pdf/nihms-1877274.pdf,10.1126/science.add2187
