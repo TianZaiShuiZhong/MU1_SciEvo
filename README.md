@@ -71,9 +71,4 @@ python scripts/split_dataset.py
 - 来源清单：`reports/source_inventory.csv`
 - 已填充报告：`docs/技术报告_参赛终稿版.md`
 
-## 几个实用提醒
-
-- `api.txt` 里是敏感 token，不要上传到公开仓库。
-- 当前自动抽取结果是 `draft` 级，正式提交前最好做人审（尤其失败-修正链和量化指标）。
-- 如果网络波动导致接口失败，直接重跑同一命令即可，脚本内有去重和重试逻辑。
 
