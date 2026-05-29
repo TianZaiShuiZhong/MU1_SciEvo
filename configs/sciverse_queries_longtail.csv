@@ -1,0 +1,16 @@
+query,domain,top_k
+scientific reasoning benchmark for large language models in biology and medicine,scientific-ml,15
+agentic retrieval augmented generation benchmark scientific literature,scientific-ml,15
+evaluation protocol for scientific question answering with evidence attribution,scientific-ml,15
+single cell foundation model perturbation benchmark and failure analysis,computational-biology,15
+protein language model generalization benchmark wet lab validation,computational-biology,15
+genome editing off-target benchmark deep learning uncertainty,computational-biology,15
+hit to lead optimization benchmark medicinal chemistry case studies,drug-discovery,15
+binding affinity prediction benchmark uncertainty out-of-distribution,drug-discovery,15
+structure based drug design failures and lessons learned,drug-discovery,15
+climate model emulation benchmark physical consistency and uncertainty,earth-science,15
+earth system machine learning benchmark with interpretability constraints,earth-science,15
+geoscience inverse modeling benchmark neural operators uncertainty quantification,earth-science,15
+quantum chemistry machine learning benchmark reaction energies and barriers,computational-chemistry,15
+ab initio molecular dynamics surrogate model benchmark,computational-chemistry,15
+reaction mechanism prediction benchmark with experimental validation,computational-chemistry,15

@@ -1,0 +1,9 @@
+query,domain,top_k
+magnetic reconnection laboratory experiment benchmark dataset plasma,plasma-physics,15
+tokamak disruption prediction machine learning benchmark,plasma-physics,15
+magnetic flux rope failed eruption observational and simulation study,plasma-physics,15
+solar flare cme prediction benchmark uncertainty quantification,plasma-physics,15
+scientific llm benchmark evidence attribution reproducibility,scientific-ml,15
+retrieval augmented generation for scientific literature benchmark,scientific-ml,15
+tool using scientific agents benchmark multi step reasoning,scientific-ml,15
+evaluation of scientific claim verification with citations benchmark,scientific-ml,15
