@@ -5,8 +5,8 @@ type: dataset
 version: "0.2.0"
 date-released: 2026-05-29
 license: "CC-BY-4.0"
-repository-code: "https://github.com/your-org/MU1_SciEvo"
-url: "https://github.com/your-org/MU1_SciEvo"
+repository-code: "https://github.com/TianZaiShuiZhong/MU1_SciEvo"
+url: "https://github.com/TianZaiShuiZhong/MU1_SciEvo"
 abstract: >
   Sci-Evo multi-domain dataset construction pipeline based on MinerU parsing,
   with schema-validated JSONL records for scientific reasoning trajectories.
@@ -19,4 +19,3 @@ keywords:
 authors:
   - given-names: "MU1"
     family-names: "SciEvo Team"
-
