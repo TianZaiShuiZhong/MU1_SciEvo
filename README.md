@@ -1,5 +1,5 @@
 # MU1_SciEvo（赛道一）
-
+GitHub：https://github.com/TianZaiShuiZhong/MU1_SciEvo
 这个仓库是我们做 `Sci-Evo` 数据集的工程底座。核心思路很简单：  
 先把论文转成结构化文本（MinerU / Sciverse），再统一整理成可训练、可评测的 `jsonl`。
 
